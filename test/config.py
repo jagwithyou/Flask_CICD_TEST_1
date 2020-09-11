@@ -5,5 +5,3 @@ REPORT_TITLE = "Google Search Testing"
 REPORT_FOLDER = 'reports'
 INDIVIDUAL_REPORT = False
 LOG_FOLDER = 'logs'
-HEADLESS=True
-DOWNLOAD_FOLDER="downloads"

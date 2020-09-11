@@ -6,8 +6,8 @@ from selenium import webdriver
 import pytest, config
 from selenium.common.exceptions import NoSuchElementException
 
-class TestSimplePage(BaseClass):
-    def test_1_dummy(self):
+class TestSimplePage1(BaseClass):
+    def test_1_dummy1(self):
         ''' This is a dummy test for CICD.'''
         #Instantiating the logger
         log = self.getLogger()
