@@ -1,0 +1,1 @@
+server { location / { proxy_pass http://localhost:8008; proxy_set_header Host ; proxy_set_header X-Real-IP ; } location /static { alias /home/www/flask_project/static/; } }
