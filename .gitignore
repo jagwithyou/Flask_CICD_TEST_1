@@ -1,5 +1,3 @@
 venv/
 .vscode/
 __pycache__/
-logs/
-test/logs/logfile.log
