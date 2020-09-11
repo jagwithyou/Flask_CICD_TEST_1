@@ -3,7 +3,4 @@ venv/
 __pycache__/
 drivers/
 logs/
-reports/
-conftest.py
 test/logs/logfile.log
-test/reports/report.html
