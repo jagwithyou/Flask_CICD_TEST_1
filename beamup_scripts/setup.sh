@@ -1,5 +1,4 @@
 #! /bin/bash
-source ./common.sh
 
 install_required_linux_packages(){
     echo -e "\n >>> Installing required linux libraries >>>"
