@@ -4,6 +4,7 @@
 start_build(){
     create_dir_not_present $BUILD_FOLDER
     sudo cp -r app $BUILD_FOLDER/app
+    sudo cp -r test $BUILD_FOLDER/test
 }
 
 
