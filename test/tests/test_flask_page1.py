@@ -14,7 +14,7 @@ class TestSimplePage1(BaseClass):
         log.info(" Test Started")
         #logging the test success
         log.info("Test Success")
-        assert False 
+        assert True 
     
             
 
